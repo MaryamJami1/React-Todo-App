@@ -26,7 +26,8 @@ function App() {
         <ul className="space-y-4">
           {/* Todo Item */}
           <li className="flex justify-between items-center bg-gray-50 px-4 py-2 rounded-lg shadow-sm">
-            <span className="text-gray-800">Sample Task 1</span>
+            <span className="text-
+            gray-800">Sample Task 1</span>
             <div className="flex space-x-2">
               <button className="bg-yellow-400 hover:bg-yellow-500 text-white px-3 py-1 rounded-lg shadow-sm">
                 Edit
